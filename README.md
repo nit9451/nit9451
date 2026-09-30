@@ -1,14 +1,14 @@
 # Hi, I'm Nitish Purohit
 
-Senior AI Engineer with 5.6+ years of experience building production-ready full-stack and AI systems. I work across Claude API integrations, RAG pipelines, MCP-based tooling, Next.js applications, FastAPI services, and cloud-ready product architecture.
+Senior Full Stack Engineer with 6+ years of experience building production-ready web applications, backend systems, and cloud-ready product architecture. Over the last 2.5 years, I have also focused deeply on AI engineering, including Claude API integrations, RAG pipelines, MCP-based tooling, and AI-assisted product workflows.
 
 I enjoy taking ideas from rough product requirements to reliable shipped systems: designing the architecture, building the core flows, improving developer experience, and keeping the codebase maintainable for the next engineer who joins.
 
 ## What I Focus On
 
-- AI-powered applications with Claude API, RAG, agentic workflows, and MCP
 - Full-stack product development with Next.js, React, TypeScript, and FastAPI
 - Backend APIs, integrations, authentication, data flows, and deployment readiness
+- AI-powered applications with 2.5 years of hands-on experience across Claude API, RAG, agentic workflows, and MCP
 - Engineering ownership: code reviews, refactoring, documentation, issue planning, and delivery
 - Tech-lead habits: clear tradeoffs, maintainable design, team unblockers, and production thinking
 
@@ -104,7 +104,8 @@ I am using GitHub as a public engineering journal. The goal is not empty commits
 
 ## 2026 Focus
 
-- Build high-quality AI products with real workflows, not just demos
+- Build high-quality full-stack products with real workflows, not just demos
+- Keep deepening practical AI engineering experience across RAG, agents, and MCP
 - Strengthen system design and backend architecture
 - Grow into a Tech Lead role through ownership, mentoring, and delivery discipline
 - Contribute more consistently to public projects and open source
